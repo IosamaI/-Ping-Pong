@@ -36,4 +36,4 @@ A simple, interactive web application that allows two players to track scores fo
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>cd
+   git clone https://github.com/IosamaI/-Ping-Pong.git
